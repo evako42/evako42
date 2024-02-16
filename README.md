@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there!
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV5bHN2ZjVuZm4wYXFvNmdpOGpyNGN3eWk1dWVna3ZqeWd3YW5vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LiauwXZqx2TKUI1ITW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/57JXz0F0T7mZGP1Gsl/giphy.gif" width="100"/>
 </div>
 
+<a href="https://www.linkedin.com/in/eva-koderman-neuroscientist/">
+  <img src=https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge>
+</a>
 
 <!--
 **evako42/evako42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
