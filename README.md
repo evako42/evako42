@@ -25,4 +25,4 @@ R&D Engineer based in Amsterdam. I hold a research MSc in Neuroscience from the 
 
 - :seedling: When I'm not tied up, I like to write science articles for the general public. Check out <a href="https://www.inspirethemind.org">Inspire the mind</a> for more!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-eva-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/eva-koderman-neuroscientist/))
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-eva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eva-koderman-neuroscientist/)
