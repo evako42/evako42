@@ -23,6 +23,6 @@ R&D Engineer based in Amsterdam. I hold a research MSc in Neuroscience from the 
 
 - 🗞️ Contributing author to a machine learning patent
 
-- :seedling: When I'm not tied up, I like to write science articles for the general public. Check out <a href="https://www.inspirethemind.org/post/mind-body-harmony-unraveling-yoga-s-impact-on-the-brain">Inspire the mind</a> for more!
+- :seedling: I have recently started writing science article for a digital magazine called Inspire the Mind. Check out <a href="https://www.inspirethemind.org/post/mind-body-harmony-unraveling-yoga-s-impact-on-the-brain">my first article</a>!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-eva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eva-koderman-neuroscientist/)
