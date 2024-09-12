@@ -19,7 +19,9 @@
 
 R&D Engineer based in Amsterdam. I hold a research MSc in Neuroscience from the Erasmus Medical Center University and a BSc in Biopsychology from the University of Primorska. 
 
-- :zap: Extensive knowledge on advanced non-invasive neuroimaging techniques (mostly EEG)
+- 🧠 PhD Candidate at the MULTINET lab at Amsterdam UMC (Department of Anatomy and Neurosciences) working on the prediction of cognitive performance in glioma patients after surgery using brain imaging, computational modeling, and machine learning
+
+- :zap: Extensive knowledge on EEG
 
 - 🗞️ Contributing author to a machine learning patent
 
